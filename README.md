@@ -1,6 +1,8 @@
+[//]: # (Image References)
+[Banana Agent]: https://github.com/CatoGit/banana-navigation/blob/master/GIF.gif "Banana Agent"
+
+
 # Banana Navigation Project using DQN
-
-
 
 In this project, an agent learns to navigate and collect yellow bananas in a square world.
 
@@ -33,3 +35,6 @@ The agent can select four possible actions:
 3. Train your DQN agent using `banana-navigation.ipynb`. Make sure to have Python 3.6 with PyTorch and Tensorflow installed in order to use the unity environment on your computer.
 
 4. Watch your trained agent. Enjoy!
+
+![Trained Banana Agent][Banana Agent]
+
