@@ -32,7 +32,7 @@ The agent can select four possible actions:
 
 2. Place the file in the `banana-navigation/` folder and unzip it.
 
-3. Train your DQN agent using `banana-navigation.ipynb`. Make sure to have Python 3.6 with PyTorch and Tensorflow installed in order to use the unity environment on your computer.
+3. Train your DQN agent using `BananaProject.ipynb`. Make sure to have Python 3.6 with PyTorch and Tensorflow installed in order to use the unity environment on your computer.
 
 4. Watch your trained agent. Enjoy!
 
