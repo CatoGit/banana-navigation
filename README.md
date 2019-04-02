@@ -6,7 +6,7 @@
 
 In this project, an agent learns to navigate and collect yellow bananas in a square world.
 
-There exist yellow and blue bananas in the world. Yellow bananas yield a reward of +1 while blue bananas yield a reward of -1. 
+There are yellow and blue bananas in the world. Yellow bananas yield a reward of +1 while blue bananas yield a reward of -1. 
 The agent's goal is to maximize reward by collecting as many yellow bananas as possible. The environment is solved once the agent achieves an average of +13 reward over 100 episodes. This means the task itself it episodic.
 
 ## State space (Continuous)
