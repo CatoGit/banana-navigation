@@ -3,7 +3,7 @@
 ## Learning algorithm
 
 A Deep Q-Learning network (DQN) with fixed-Q-targets and experience replay is implemented [[1]](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf).
-But instead of the pixel input that is used in the paper, the agent's 37 dimensional state space vector is used as input to the neural network.
+But instead of the pixel input that is used in the paper, the agent's 37-dimensional state space vector is used as input to the neural network.
 
 ### Neural network model architecture
 The fully connected neural network takes the state size as input (37) and decompresses it to 128 nodes in the first hidden layer. 
